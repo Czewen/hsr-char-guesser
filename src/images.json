@@ -142,5 +142,61 @@
         "yStart": 76,
         "xEnd": 788,
         "yEnd": 727
+    },
+    {
+        "name": "Clara",
+        "link": "https://i.imgur.com/QfrADH5.png",
+        "xStart": 252,
+        "yStart": 211,
+        "xEnd": 956,
+        "yEnd": 899
+    },
+    {
+        "name": "Dan Heng • Imbibitor Lunae",
+        "link": "https://i.imgur.com/FRpAOsl.png",
+        "xStart": 305,
+        "yStart": 91,
+        "xEnd": 698,
+        "yEnd": 912
+    },
+    {
+        "name": "Dan Heng • Permansor Terrae",
+        "link": "https://i.imgur.com/zECVXS6.png",
+        "xStart": 211,
+        "yStart": 92,
+        "xEnd": 831,
+        "yEnd": 764
+    },
+    {
+        "name": "Dan Heng",
+        "link": "https://i.imgur.com/1h7Q5EG.png",
+        "xStart": 249,
+        "yStart": 163,
+        "xEnd": 815,
+        "yEnd": 838
+    },
+    {
+        "name": "Dr Ratio",
+        "link": "https://i.imgur.com/RwRGneO.png",
+        "xStart": 153,
+        "yStart": 137,
+        "xEnd": 772,
+        "yEnd": 755
+    },
+    {
+        "name": "Evernight",
+        "link": "https://i.imgur.com/AbnbzXh.png",
+        "xStart": 239,
+        "yStart": 9,
+        "xEnd": 683,
+        "yEnd": 752
+    },
+    {
+        "name": "Feixiao",
+        "link": "https://i.imgur.com/EoSXb7r.png",
+        "xStart": 25,
+        "yStart":198,
+        "xEnd": 973,
+        "yEnd": 816
     }
 ]
