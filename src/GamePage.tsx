@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { ImageHolder } from "./components/ImageHolder";
 import { Stack, IconButton, StackItem, IStackTokens, IIconProps, Text } from "@fluentui/react";
 import { ImageDescriptor } from "./types";
-import { Autocomplete, TextField, Paper, AutocompleteInputChangeReason } from "@mui/material";
+import { Autocomplete, TextField, Paper, AutocompleteInputChangeReason, Alert, Fade } from "@mui/material";
 import imageConfig from './images.json' with { type: 'json' };
 import { shuffle }  from "lodash";
 import './App.css'
@@ -24,6 +24,7 @@ export function GamePage() {
     let [userInput, setUserInput] = useState<string>("")
     let [streak, setStreak] = useState<number>(0);
     let [bestStreak, setBestStreak] = useState<number>(0);
+    let [correctAnswer, setCorrectAnswer] = useState<string>("");
 
     useEffect(() => {
         shuffleImages();
@@ -35,6 +36,14 @@ export function GamePage() {
             setBestStreak(streak);
         }
     }, [streak]);
+
+    useEffect(() => {
+        if(correctAnswer) {
+            setTimeout(() => {
+                setCorrectAnswer("");
+            }, 2500);
+        }
+    }, [correctAnswer])
 
     function shuffleImages() {
         shuffledImages.current = shuffle(imageDescriptors);
@@ -59,6 +68,7 @@ export function GamePage() {
                 if(value && isAnswerCorrect(value)) {
                     setStreak(streak + 1)
                 } else {
+                    setCorrectAnswer(imageDescriptor?.name ?? "");
                     setStreak(0)
                 }
                 setUserInput("");
@@ -107,7 +117,7 @@ export function GamePage() {
                         </StackItem>
                         <StackItem align="center">
                             <IconButton iconProps={refreshIcon} onClick={clipNewSection}/>
-                        </StackItem>
+                        </StackItem>        
                     </Stack>
                 </StackItem>
 
@@ -119,7 +129,12 @@ export function GamePage() {
                         <Text block variant="mediumPlus">{`Best streak: ${bestStreak}`}</Text>
                     </StackItem>
                 </Stack>
-                    
+
+                <StackItem>
+                    <Fade in={correctAnswer.length > 0}>
+                        <Alert severity="info">{`The correct answer is ${correctAnswer}.`}</Alert>
+                    </Fade>
+                </StackItem>    
             </Stack>
         </Paper>
         

@@ -198,5 +198,125 @@
         "yStart":198,
         "xEnd": 973,
         "yEnd": 816
+    },
+    {
+        "name": "Fuxuan",
+        "link": "https://i.imgur.com/EoSXb7r.png",
+        "xStart": 274,
+        "yStart":124,
+        "xEnd": 695,
+        "yEnd": 761
+    },
+    {
+        "name": "Fugue",
+        "link": "https://i.imgur.com/d1sSaDi.png",
+        "xStart": 132,
+        "yStart": 208,
+        "xEnd": 731,
+        "yEnd": 887
+    },
+    {
+        "name": "Gallagher",
+        "link": "https://i.imgur.com/JdIfKAv.png",
+        "xStart": 295,
+        "yStart": 94,
+        "xEnd": 875,
+        "yEnd": 836
+    },
+    {
+        "name": "Gepard",
+        "link": "https://i.imgur.com/vnyBmWs.png",
+        "xStart": 234,
+        "yStart": 366,
+        "xEnd": 935,
+        "yEnd": 824
+    },
+    {
+        "name": "Guinaifen",
+        "link": "https://i.imgur.com/sCtM4TT.png",
+        "xStart": 220,
+        "yStart": 238,
+        "xEnd": 784,
+        "yEnd": 896
+    },
+    {
+        "name": "Hanya",
+        "link": "https://i.imgur.com/YwXjMFH.png",
+        "xStart": 228,
+        "yStart": 145,
+        "xEnd": 775,
+        "yEnd": 760
+    },
+    {
+        "name": "Herta",
+        "link": "https://i.imgur.com/XyvEQeF.png",
+        "xStart": 112,
+        "yStart": 162,
+        "xEnd": 851,
+        "yEnd": 763
+    },
+    {
+        "name": "Himeko",
+        "link": "https://i.imgur.com/47LLXAM.png",
+        "xStart": 293,
+        "yStart": 58,
+        "xEnd": 723,
+        "yEnd": 987
+    },
+    {
+        "name": "Hook",
+        "link": "https://i.imgur.com/YNNEgpM.png",
+        "xStart": 226,
+        "yStart": 159,
+        "xEnd": 923,
+        "yEnd": 725
+    },
+    {
+        "name": "Huohuo",
+        "link": "https://i.imgur.com/RpsSL51.png",
+        "xStart": 164,
+        "yStart": 76,
+        "xEnd": 704,
+        "yEnd": 876
+    },
+    {
+        "name": "Hyacine",
+        "link": "https://i.imgur.com/RDLfsmw.png",
+        "xStart": 177,
+        "yStart": 91,
+        "xEnd": 872,
+        "yEnd": 935
+    },
+    {
+        "name": "Hysilens",
+        "link": "https://i.imgur.com/KzY2hZp.png",
+        "xStart": 113,
+        "yStart": 38,
+        "xEnd": 911,
+        "yEnd": 844
+    },
+    {
+        "name": "Jade",
+        "link": "https://i.imgur.com/sCainP9.png",
+        "xStart": 247,
+        "yStart": 2,
+        "xEnd": 742,
+        "yEnd": 939
+    },
+    {
+        "name": "Jiaoqiu",
+        "link": "https://i.imgur.com/TwhV6o0.png",
+        "xStart": 52,
+        "yStart": 151,
+        "xEnd": 932,
+        "yEnd": 773
+    },
+    {
+        "name": "Jingyuan",
+        "link": "https://i.imgur.com/3lWiVEZ.png",
+        "xStart": 173,
+        "yStart": 147,
+        "xEnd": 777,
+        "yEnd": 843
     }
 ]
