@@ -14,5 +14,133 @@
         "xEnd": 1313,
         "yStart": 287,
         "yEnd": 1610
+    },
+    {
+        "name": "Aglaea",
+        "link": "https://i.imgur.com/RKB97l2.png",
+        "xStart": 868,
+        "xEnd": 1433,
+        "yStart": 213,
+        "yEnd": 1156
+    },
+    {
+        "name": "Acheron",
+        "link": "https://i.imgur.com/flr6Xpx.png",
+        "xStart": 790,
+        "xEnd": 1307,
+        "yStart": 286,
+        "yEnd": 1626
+    },
+    {
+        "name": "Anaxa",
+        "link": "https://i.imgur.com/C1IDiUW.png",
+        "xStart": 473,
+        "xEnd": 184,
+        "yStart": 738,
+        "yEnd": 862
+    },
+    {
+        "name": "Archer",
+        "link": "https://i.imgur.com/tMreGXl.png",
+        "xStart": 869,
+        "xEnd": 604,
+        "yStart": 1392,
+        "yEnd": 1623
+    },
+    {
+        "name": "Argenti",
+        "link": "https://i.imgur.com/inq5rJS.png",
+        "xStart": 489,
+        "xEnd": 1009,
+        "yStart": 499,
+        "yEnd": 1835
+    },
+    {
+        "name": "Arlan",
+        "link": "https://i.imgur.com/Jk559io.png",
+        "xStart": 873,
+        "yStart": 539,
+        "xEnd": 1563,
+        "yEnd": 1538
+    },
+    {
+        "name": "Asta",
+        "link": "https://i.imgur.com/fWvUBTZ.png",
+        "xStart": 308,
+        "yStart": 270,
+        "xEnd": 687,
+        "yEnd": 802
+    },
+    {
+        "name": "Aventurine",
+        "link": "https://i.imgur.com/ZE2DpwO.png",
+        "xStart": 404,
+        "yStart": 274,
+        "xEnd": 725,
+        "yEnd": 835
+    },
+    {
+        "name": "Bailu",
+        "link": "https://i.imgur.com/W5AqNz0.png",
+        "xStart": 298,
+        "yStart": 205,
+        "xEnd": 689,
+        "yEnd": 658
+    },
+    {
+        "name": "Black Swan",
+        "link": "https://i.imgur.com/rJng5Qv.png",
+        "xStart": 303,
+        "yStart": 235,
+        "xEnd": 711,
+        "yEnd": 684
+    },
+    {
+        "name": "Blade",
+        "link": "https://i.imgur.com/ZDYrXlc.png",
+        "xStart": 265,
+        "yStart": 68,
+        "xEnd": 670,
+        "yEnd": 791
+    },
+    {
+        "name": "Boothill",
+        "link": "https://i.imgur.com/rpV37IQ.png",
+        "xStart": 339,
+        "yStart": 244,
+        "xEnd": 799,
+        "yEnd": 937
+    },
+    {
+        "name": "Bronya",
+        "link": "https://i.imgur.com/cwGIi2H.png",
+        "xStart": 652,
+        "yStart": 877,
+        "xEnd": 1184,
+        "yEnd": 1797
+    },
+    {
+        "name": "Castorice",
+        "link": "https://i.imgur.com/SzjdtXg.png",
+        "xStart": 92,
+        "yStart": 126,
+        "xEnd": 749,
+        "yEnd": 885
+    },
+    {
+        "name": "Cerydra",
+        "link": "https://i.imgur.com/B4ZZFpZ.png",
+        "xStart": 180,
+        "yStart": 23,
+        "xEnd": 775,
+        "yEnd": 773
+    },
+    {
+        "name": "Cipher",
+        "link": "https://i.imgur.com/JmLHGuz.png",
+        "xStart": 354,
+        "yStart": 76,
+        "xEnd": 788,
+        "yEnd": 727
     }
 ]
