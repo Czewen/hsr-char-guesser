@@ -17,7 +17,7 @@ const horizontalGapStackTokens: IStackTokens = {
 export function GamePage() {
 
     const imageDescriptors : ImageDescriptor[] = imageConfig as ImageDescriptor[];
-    const options = imageDescriptors.map(i => i.name);
+    const options = imageDescriptors.map(i => i.name).sort();
     var [imageDescriptor, setImageDescriptor] = useState<ImageDescriptor | undefined>(undefined);
     let shuffledImages = useRef<ImageDescriptor[]>([]);
     let iteration = useRef<number>(0);

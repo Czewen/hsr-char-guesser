@@ -201,7 +201,7 @@
     },
     {
         "name": "Fuxuan",
-        "link": "https://i.imgur.com/EoSXb7r.png",
+        "link": "https://i.imgur.com/6V7erZl.png",
         "xStart": 274,
         "yStart":124,
         "xEnd": 695,
@@ -318,5 +318,53 @@
         "yStart": 147,
         "xEnd": 777,
         "yEnd": 843
+    },
+    {
+        "name": "Kafka",
+        "link": "https://i.imgur.com/9V9xXfd.png",
+        "xStart": 584,
+        "yStart": 165,
+        "xEnd": 1258,
+        "yEnd": 1361
+    },
+    {
+        "name": "Lingsha",
+        "link": "https://i.imgur.com/um420qf.png",
+        "xStart": 322,
+        "yStart": 561,
+        "xEnd": 1723,
+        "yEnd": 1385
+    },
+    {
+        "name": "Luka",
+        "link": "https://i.imgur.com/02ORKBY.png",
+        "xStart": 517,
+        "yStart": 313,
+        "xEnd": 1419,
+        "yEnd": 1813
+    },
+    {
+        "name": "Luocha",
+        "link": "https://i.imgur.com/CLXwEuJ.png",
+        "xStart": 358,
+        "yStart": 426,
+        "xEnd": 1847,
+        "yEnd": 1282
+    },
+    {
+        "name": "Lynx",
+        "link": "https://i.imgur.com/rKnTybQ.png",
+        "xStart": 674,
+        "yStart": 431,
+        "xEnd": 1620,
+        "yEnd": 1759
+    },
+    {
+        "name": "March 7th",
+        "link": "https://i.imgur.com/CNzsz1t.png",
+        "xStart": 433,
+        "yStart": 455,
+        "xEnd": 1562,
+        "yEnd": 1853
     }
 ]
