@@ -314,18 +314,18 @@
     {
         "name": "Jingyuan",
         "link": "https://i.imgur.com/3lWiVEZ.png",
-        "xStart": 173,
-        "yStart": 147,
-        "xEnd": 777,
-        "yEnd": 843
+        "xStart": 356,
+        "yStart": 176,
+        "xEnd": 652,
+        "yEnd": 720
     },
     {
         "name": "Kafka",
         "link": "https://i.imgur.com/9V9xXfd.png",
-        "xStart": 584,
-        "yStart": 165,
-        "xEnd": 1258,
-        "yEnd": 1361
+        "xStart": 711,
+        "yStart": 373,
+        "xEnd": 1291,
+        "yEnd": 1234
     },
     {
         "name": "Lingsha",
@@ -346,18 +346,18 @@
     {
         "name": "Luocha",
         "link": "https://i.imgur.com/CLXwEuJ.png",
-        "xStart": 358,
-        "yStart": 426,
-        "xEnd": 1847,
-        "yEnd": 1282
+        "xStart": 779,
+        "yStart": 452,
+        "xEnd": 1399,
+        "yEnd": 1460
     },
     {
         "name": "Lynx",
         "link": "https://i.imgur.com/rKnTybQ.png",
-        "xStart": 674,
-        "yStart": 431,
-        "xEnd": 1620,
-        "yEnd": 1759
+        "xStart": 888,
+        "yStart": 558,
+        "xEnd": 1525,
+        "yEnd": 1654
     },
     {
         "name": "March 7th",
@@ -366,5 +366,109 @@
         "yStart": 455,
         "xEnd": 1562,
         "yEnd": 1853
+    },
+    {
+        "name": "Misha",
+        "link": "https://i.imgur.com/erMho4L.png",
+        "xStart": 423,
+        "yStart": 654,
+        "xEnd": 1635,
+        "yEnd": 1201
+    },
+    {
+        "name": "Moze",
+        "link": "https://i.imgur.com/HiNbv0G.png",
+        "xStart": 612,
+        "yStart": 437,
+        "xEnd": 1334,
+        "yEnd": 1672
+    },
+    {
+        "name": "Mydei",
+        "link": "https://i.imgur.com/cTlJE4k.png",
+        "xStart": 370,
+        "yStart": 751,
+        "xEnd": 1747,
+        "yEnd": 1590
+    },
+    {
+        "name": "Natasha",
+        "link": "https://i.imgur.com/u8Ebr9g.png",
+        "xStart": 752,
+        "yStart": 311,
+        "xEnd": 1387,
+        "yEnd": 1802
+    },
+    {
+        "name": "Pela",
+        "link": "https://i.imgur.com/Vk20vDH.png",
+        "xStart": 166,
+        "yStart": 516,
+        "xEnd": 1235,
+        "yEnd": 1759
+    },
+    {
+        "name": "Phainon",
+        "link": "https://i.imgur.com/sHwvNnv.jpeg",
+        "xStart": 619,
+        "yStart": 223,
+        "xEnd": 1267,
+        "yEnd": 1706
+    },
+    {
+        "name": "Qingque",
+        "link": "https://i.imgur.com/e07BZky.png",
+        "xStart": 576,
+        "yStart": 233,
+        "xEnd": 1704,
+        "yEnd": 1628
+    },
+    {
+        "name": "Rappa",
+        "link": "https://i.imgur.com/1rwV6KV.png",
+        "xStart": 352,
+        "yStart": 665,
+        "xEnd": 1622,
+        "yEnd": 1648
+    },
+    {
+        "name": "Robin",
+        "link": "https://i.imgur.com/M2h9TV5.png",
+        "xStart": 618,
+        "yStart": 233,
+        "xEnd": 1399,
+        "yEnd": 1666
+    },
+    {
+        "name": "Ruan Mei",
+        "link": "https://i.imgur.com/SDRDgGK.png",
+        "xStart": 708,
+        "yStart": 557,
+        "xEnd": 1396,
+        "yEnd": 1909
+    },
+    {
+        "name": "Saber",
+        "link": "https://i.imgur.com/BzYpb6O.png",
+        "xStart": 605,
+        "yStart": 468,
+        "xEnd": 1554,
+        "yEnd": 1592
+    },
+    {
+        "name": "Sampo",
+        "link": "https://i.imgur.com/4m0deZR.png",
+        "xStart": 294,
+        "yStart": 425,
+        "xEnd": 1928,
+        "yEnd": 1695
+    },
+    {
+        "name": "Seele",
+        "link": "https://i.imgur.com/ogeqoiO.png",
+        "xStart": 392,
+        "yStart": 442,
+        "xEnd": 1622,
+        "yEnd": 1541
     }
 ]

@@ -10,8 +10,8 @@ export interface ImageHolderProps {
 export function ImageHolder(props: ImageHolderProps) {
     const canvas = useRef<HTMLCanvasElement>(null)
     let img = useRef<HTMLImageElement | null>(null)
-    let canvasHeight : number  = 120;
-    let canvasWidth : number = 120;    
+    let canvasHeight : number  = 150;
+    let canvasWidth : number = 150;    
     function getRandomValueWithinRange(min : number, max : number) {
         return Math.random() * (max - min) + min;
     }
@@ -43,7 +43,7 @@ export function ImageHolder(props: ImageHolderProps) {
                     var clipArea = { x: x - canvasWidth/2, y: y - canvasHeight/2 };
                     canvasContext?.reset();
                     canvasContext?.scale(1,1);
-                    clipImage(canvasContext, img.current, clipArea.x, clipArea.y, 120, 120);
+                    clipImage(canvasContext, img.current, clipArea.x, clipArea.y, 150, 150);
                     clipSpaceBlank = isClipSpaceBlank(canvasContext, 0, 0)
                 }
             }
